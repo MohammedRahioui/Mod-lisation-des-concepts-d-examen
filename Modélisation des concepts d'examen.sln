@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modélisation des concepts d'examen", "Modélisation des concepts d'examen\Modélisation des concepts d'examen.csproj", "{28695B77-4532-43B8-BD77-B42F3B25E4AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28695B77-4532-43B8-BD77-B42F3B25E4AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28695B77-4532-43B8-BD77-B42F3B25E4AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28695B77-4532-43B8-BD77-B42F3B25E4AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28695B77-4532-43B8-BD77-B42F3B25E4AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {161453EB-CECC-40C2-96C3-A281874ACA68}
+	EndGlobalSection
+EndGlobal
